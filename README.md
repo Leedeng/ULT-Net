@@ -18,7 +18,7 @@ pip install parse
 # Then play with the provided ipython notebook.
 
 ```
-ULTInferenceDemo.ipynb
+InferenceDemo.ipynb
 ```
 
 # Datasets
