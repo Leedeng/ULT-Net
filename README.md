@@ -5,6 +5,7 @@
 Download the repo and create the virtual environment by following commands
 
 # Dependency
+
 ```
 conda create --name ULT --file spec-env.txt
 conda activate ULT
@@ -15,15 +16,16 @@ pip install parse
 ```
 
 # Then play with the provided ipython notebook.
+
 ```
 ULTInferenceDemo.ipynb
 ```
 
 # Datasets
+
 We do not own the copyright of the dataset used in this repo.
 
 Below is a summary table of the datasets used in this work along with a link from which they can be downloaded:
-
 
 | Dataset      | URL     |
 | ------------ | ------- |
