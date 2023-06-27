@@ -38,9 +38,6 @@ Below is a summary table of the datasets used in this work along with a link fro
 | DIBCO 2016   | http://vc.ee.duth.gr/h-dibco2016/benchmark/                 |
 | DIBCO 2017   | https://vc.ee.duth.gr/dibco2017/                 |
 | DIBCO 2018   | https://vc.ee.duth.gr/h-dibco2018/                 |
-| PHIDB | http://www.iapr-tc11.org/mediawiki/index.php/Persian_Heritage_Image_Binarization_Dataset_(PHIBD_2012) |
-| Bickely-diary dataset | https://www.comp.nus.edu.sg/~brown/BinarizationShop/dataset.htm |
-| Synchromedia Multispectral dataset | http://tc11.cvc.uab.es/datasets/SMADI_1　|
 | Monk Cuper Set | https://www.ai.rug.nl/~sheng/ |
 
 
